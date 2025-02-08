@@ -1,0 +1,127 @@
+Задача 1
+
+SELECT orderNumber, productCode, quantityOrdered, priceEach
+
+FROM orderdetails
+
+ORDER BY quantityOrdered * priceEach DESC
+
+LIMIT 10
+
+
+Задача 2
+
+SELECT orderNumber, SUM(quantityOrdered * priceEach) AS total
+
+FROM orderdetails
+
+GROUP BY orderNumber
+
+HAVING total > 59000
+
+
+Задача 3
+
+SELECT o.orderNumber, o.orderDate, o.status,
+
+SUM(od.quantityOrdered * od.priceEach) AS total
+
+FROM orders AS o
+
+INNER JOIN orderdetails AS od ON o.orderNumber = od.orderNumber
+
+GROUP BY o.orderNumber, o.orderDate, o.status
+
+HAVING total > 59000
+
+
+Задача 4
+
+SELECT c.contactFirstName, c.contactLastName, c.country,
+
+o.orderNumber, o.orderDate, o.status,
+
+SUM(od.quantityOrdered * od.priceEach) AS total
+
+FROM orders AS o
+
+INNER JOIN orderdetails AS od ON o.orderNumber = od.orderNumber
+
+INNER JOIN customers AS c ON o.customerNumber = c.customerNumber
+
+GROUP BY o.orderNumber, o.orderDate, o.status
+
+HAVING total > 59000
+
+
+Задача 5
+
+SELECT p.productName,
+
+SUM(od.quantityOrdered * od.priceEach) AS total
+
+FROM orderdetails AS od
+
+INNER JOIN products AS p ON p.productCode = od.productCode
+
+GROUP BY od.productCode
+
+ORDER BY total DESC
+
+LIMIT 10
+
+
+Задача 6
+
+SELECT e.firstName AS EmployeeFirstName,
+
+e.lastName AS EmployeeLastName,
+
+c.contactFirstName AS CustomerFirstName,
+
+c.contactLastName AS CustomerLastName
+
+FROM employees AS e
+
+LEFT JOIN customers AS c ON e.employeeNumber = c.salesRepEmployeeNumber
+
+UNION
+
+SELECT e.firstName AS EmployeeFirstName,
+
+e.lastName AS EmployeeLastName,
+
+c.contactFirstName AS CustomerFirstName,
+
+c.contactLastName AS CustomerLastName
+
+FROM employees AS e
+
+RIGHT JOIN customers AS c ON e.employeeNumber = c.salesRepEmployeeNumber
+
+
+Задача 7
+
+SELECT
+
+e.firstName AS firstName,
+
+e.lastName AS lastName,
+
+e.jobTitle AS jobTitle,
+
+sub.firstName AS subFirstName,
+
+sub.lastName AS subLastName
+
+FROM
+
+employees AS e
+
+LEFT JOIN
+
+employees AS sub ON e.employeeNumber = sub.reportsTo
+
+ORDER BY
+
+e.firstName, e.lastName

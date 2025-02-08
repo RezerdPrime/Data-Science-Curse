@@ -1,0 +1,191 @@
+	country	region	median_age	birth_rate	death_rate	life_expectancy	fertility_rate	obesity_rate
+0	Japan	East Asia/Southeast Asia	48,60	7.0	ноя.44	84.65	янв.38	04.мар
+1	Germany	Europe	47,80	авг.63	дек.22	81.3	янв.48	22.мар
+2	Italy	Europe	46,50	авг.37	10.июл	82.67	янв.47	19.сен
+3	Andorra	Europe	46,20	июн.91	июл.86	83.23	янв.44	25.июн
+4	Greece	Europe	45,30	июл.72	12.май	81.28	янв.39	24.сен
+5	Slovenia	Europe	44,90	08.май	окт.34	81.61	янв.59	20.фев
+6	Portugal	Europe	44,60	08.фев	10.сен	81.29	янв.42	20.авг
+7	Austria	Europe	44,50	сен.48	сен.85	82.07	01.май	20.янв
+8	Lithuania	Europe	44,50	сен.42	15.май	75.61	янв.61	26.мар
+9	Latvia	Europe	44,40	авг.96	14.63	75.65	янв.54	23.июн
+10	Croatia	Europe	43,90	авг.68	дек.78	76.97	янв.44	24.апр
+11	Spain	Europe	43,90	08.май	сен.78	82.21	янв.51	23.авг
+12	Bulgaria	Europe	43,70	авг.15	14.52	75.3	янв.49	25.0
+13	Estonia	Europe	43,70	09.мар	13.июн	77.63	янв.61	21.фев
+14	Hungary	Europe	43,60	авг.72	дек.88	76.95	янв.48	26.апр
+15	Serbia	Europe	43,40	авг.74	13.49	76.56	янв.47	21.май
+16	Bosnia and Herzegovina	Europe	43,30	08.май	окт.25	77.74	янв.35	17.сен
+17	Czechia	Europe	43,30	авг.75	окт.72	79.5	янв.49	26.0
+18	Korea, South	East Asia/Southeast Asia	43,20	июн.89	июн.96	82.78	01.сен	04.июл
+19	Finland	Europe	42,80	окт.49	окт.33	81.55	янв.74	22.фев
+20	Netherlands	Europe	42,80	окт.98	сен.22	81.95	янв.78	20.апр
+21	Switzerland	Europe	42,70	окт.41	авг.44	83.03	янв.58	19.май
+22	Romania	Europe	42,50	авг.39	ноя.99	76.3	янв.38	22.май
+23	Malta	Europe	42,30	сен.84	авг.37	83.0	01.май	28.сен
+24	Cuba	Central America	42,10	окт.25	сен.22	79.41	янв.71	24.июн
+25	Denmark	Europe	42,00	ноя.17	09.май	81.45	янв.77	19.июл
+26	Poland	Europe	41,90	авг.69	окт.68	78.53	янв.39	23.янв
+27	Canada	North America	41,80	окт.21	08.авг	83.62	янв.57	29.апр
+28	Slovakia	Europe	41,80	09.янв	10.авг	78.07	янв.45	20.май
+29	France	Europe	41,70	ноя.77	сен.58	82.39	02.апр	21.июн
+30	Belgium	Europe	41,60	11.мар	сен.71	81.65	янв.77	22.янв
+31	Ukraine	Europe	41,20	сен.23	13.сен	73.18	янв.56	24.янв
+32	Sweden	Europe	41,10	ноя.93	сен.39	82.6	янв.86	20.июн
+33	Belarus	Europe	40,90	сен.32	дек.96	74.01	янв.51	24.май
+34	United Kingdom	Europe	40,60	ноя.77	сен.41	81.3	янв.86	27.авг
+35	Russia	Central Asia	40,30	сен.71	13.апр	72.16	01.июн	23.янв
+36	Montenegro	Europe	39,60	ноя.35	окт.37	77.51	янв.82	23.мар
+37	Barbados	Central America	39,50	окт.96	07.сен	78.31	01.июл	23.янв
+38	Luxembourg	Europe	39,50	ноя.62	июл.26	82.78	янв.63	22.июн
+39	Norway	Europe	39,50	12.сен	08.янв	82.35	янв.84	23.янв
+40	Thailand	East Asia/Southeast Asia	39,00	окт.25	июл.66	77.41	янв.54	10.0
+41	Georgia	Middle East	38,60	ноя.26	окт.84	77.25	янв.75	21.июл
+42	United States	North America	38,50	дек.33	авг.35	80.43	янв.84	36.2
+43	China	East Asia/Southeast Asia	38,40	11.мар	авг.26	76.31	01.июн	06.фев
+44	United Arab Emirates	Middle East	38,40	окт.87	янв.51	79.37	янв.65	31.июл
+45	Cook Islands	Australia - Oceania	38,30	дек.85	авг.89	76.89	02.сен	55.9
+46	Cyprus	Europe	37,90	окт.76	06.сен	79.51	янв.48	21.авг
+47	Ireland	Europe	37,80	12.июн	июн.72	81.45	янв.93	25.мар
+48	Trinidad and Tobago	Central America	37,80	11.дек	авг.68	74.92	01.июл	18.июн
+49	Moldova	Europe	37,70	окт.45	дек.46	72.16	янв.58	18.сен
+50	Australia	Australia - Oceania	37,50	дек.35	июн.78	82.89	янв.74	29.0
+51	New Zealand	Australia - Oceania	37,20	дек.83	июн.91	82.33	янв.87	30.авг
+52	Iceland	Europe	37,10	13.дек	июн.56	83.45	янв.96	21.сен
+53	Saint Lucia	Central America	36,90	дек.27	июл.96	78.71	янв.73	19.июл
+54	Seychelles	Africa	36,80	дек.63	июн.83	75.84	янв.82	14.0
+55	Armenia	Middle East	36,60	ноя.45	сен.48	75.86	янв.65	20.фев
+56	Saint Kitts and Nevis	Central America	36,50	дек.43	июл.24	76.83	янв.77	22.сен
+57	Mauritius	Africa	36,30	дек.44	июл.23	76.7	янв.73	10.авг
+58	Singapore	East Asia/Southeast Asia	35,60	сен.13	мар.93	86.19	янв.15	06.янв
+59	Chile	South America	35,50	дек.92	июн.47	79.57	янв.76	28.0
+60	Uruguay	South America	35,50	дек.75	сен.24	78.19	янв.76	27.сен
+61	Saint Vincent and the Grenadines	Central America	35,30	дек.44	июл.42	76.43	янв.75	23.июл
+62	Dominica	Central America	34,90	14.16	авг.14	77.96	02.фев	27.сен
+63	Korea, North	East Asia/Southeast Asia	34,60	14.35	сен.39	71.65	янв.91	06.авг
+64	Albania	Europe	34,30	дек.86	июл.27	79.23	янв.53	21.июл
+65	Palau	Australia - Oceania	33,90	ноя.47	авг.19	74.38	01.июл	55.3
+66	Lebanon	Middle East	33,70	13.35	май.57	78.53	янв.71	32.0
+67	Qatar	Middle East	33,70	сен.38	янв.42	79.58	01.сен	35.1
+68	Sri Lanka	South Asia	33,70	14.янв	июн.45	77.75	2.0	05.фев
+69	Grenada	Central America	33,30	14.27	авг.29	75.48	янв.95	21.мар
+70	Brazil	South America	33,20	13.44	06.авг	74.98	янв.73	22.янв
+71	Bahrain	Middle East	32,90	12.май	фев.81	79.67	янв.68	29.авг
+72	Bahamas, The	Central America	32,80	14.78	июн.34	75.87	янв.98	31.6
+73	Antigua and Barbuda	Central America	32,70	15.мар	май.63	77.55	янв.96	18.сен
+74	Tunisia	Africa	32,70	15.21	июн.35	76.57	02.мар	26.сен
+75	Azerbaijan	Middle East	32,60	14.мар	июн.93	73.88	янв.87	19.сен
+76	Costa Rica	Central America	32,60	14.53	апр.86	79.41	янв.87	25.июл
+77	Argentina	South America	32,40	15.авг	июл.36	78.07	02.фев	28.мар
+78	Turkey	Middle East	32,20	14.54	06.фев	75.96	янв.94	32.1
+79	Vietnam	East Asia/Southeast Asia	31,90	16.апр	май.78	75.25	02.июн	02.янв
+80	Iran	Middle East	31,70	15.78	май.14	75.06	янв.93	25.авг
+81	Kazakhstan	Central Asia	31,60	15.87	авг.14	72.25	фев.13	21.0
+82	Colombia	South America	31,20	16.51	май.53	76.91	фев.14	22.мар
+83	Brunei	East Asia/Southeast Asia	31,10	16.мар	мар.75	78.14	янв.75	14.янв
+84	Indonesia	East Asia/Southeast Asia	31,10	15.59	июн.74	72.82	02.апр	06.сен
+85	Suriname	South America	31,00	14.июл	06.янв	73.57	янв.85	26.апр
+86	Saudi Arabia	Middle East	30,80	14.56	мар.39	76.4	янв.95	35.4
+87	Israel	Middle East	30,40	17.52	05.июн	83.15	фев.57	26.янв
+88	Panama	Central America	30,10	16.67	05.янв	79.47	фев.21	22.июл
+89	Uzbekistan	Central Asia	30,10	15.85	05.апр	75.03	янв.73	16.июн
+90	Venezuela	South America	30,00	17.55	июл.13	72.22	фев.24	25.июн
+91	Fiji	Australia - Oceania	29,90	16.сен	июн.31	74.0	фев.28	30.2
+92	Mongolia	East Asia/Southeast Asia	29,80	16.32	июн.28	71.08	янв.93	20.июн
+93	Kuwait	Middle East	29,70	17.сен	фев.23	78.9	фев.25	37.9
+94	Paraguay	South America	29,70	16.43	апр.84	78.13	янв.89	20.мар
+95	Maldives	South Asia	29,50	15.69	04.дек	76.69	янв.71	08.июн
+96	Jamaica	Central America	29,40	16.мар	июл.42	75.49	02.июн	24.июл
+97	Mexico	North America	29,30	17.29	май.41	76.94	фев.17	28.сен
+98	Burma	East Asia/Southeast Asia	29,20	16.65	июл.14	69.62	02.май	05.авг
+99	Malaysia	East Asia/Southeast Asia	29,20	14.72	май.66	75.87	янв.76	15.июн
+100	Turkmenistan	Central Asia	29,20	17.85	май.95	71.54	02.апр	18.июн
+101	Bhutan	South Asia	29,10	16.17	июн.28	71.5	01.авг	06.апр
+102	Morocco	Africa	29,10	17.58	июн.53	73.56	фев.29	26.янв
+103	Peru	South America	29,10	16.67	06.сен	74.96	02.фев	19.июл
+104	Algeria	Africa	28,90	19.24	апр.32	77.79	фев.55	27.апр
+105	Ecuador	South America	28,80	16.71	май.15	77.76	02.июл	19.сен
+106	India	South Asia	28,70	17.53	07.янв	70.03	фев.28	03.сен
+107	South Africa	Africa	28,00	18.89	сен.27	65.04	02.фев	28.мар
+108	Bangladesh	South Asia	27,90	17.88	май.44	74.43	02.янв	03.июн
+109	Dominican Republic	Central America	27,90	18.24	июн.29	72.28	фев.23	27.июн
+110	El Salvador	Central America	27,70	18.22	май.91	75.11	02.июл	24.июн
+111	Guyana	South America	27,50	16.64	июн.87	71.59	02.июл	20.фев
+112	Kyrgyzstan	Central Asia	27,30	20.июн	июн.18	72.07	фев.52	16.июн
+113	Nicaragua	Central America	27,30	16.71	май.16	74.51	янв.81	23.июл
+114	Nauru	Australia - Oceania	27,00	21.49	июн.24	67.62	фев.65	61.0
+115	Cabo Verde	Africa	26,80	18.78	май.84	73.47	фев.14	11.авг
+116	Tuvalu	Australia - Oceania	26,60	22.97	08.апр	68.07	фев.86	51.6
+117	Cambodia	East Asia/Southeast Asia	26,40	20.84	июл.15	66.27	фев.36	03.сен
+118	Micronesia, Federated States of	Australia - Oceania	26,30	18.65	апр.18	74.17	фев.27	45.8
+119	Oman	Middle East	26,20	22.58	мар.25	76.64	фев.73	27.0
+120	Libya	Africa	25,80	22.23	мар.46	76.93	мар.13	32.5
+121	Botswana	Africa	25,70	20.июн	09.дек	65.24	фев.42	18.сен
+122	Kiribati	Australia - Oceania	25,70	20.27	июн.94	67.59	фев.23	46.0
+123	Samoa	Australia - Oceania	25,60	19.32	май.36	74.92	фев.46	47.3
+124	Bolivia	South America	25,30	20.36	июн.26	70.7	фев.45	20.фев
+125	Nepal	South Asia	25,30	17.78	май.57	72.12	янв.93	04.янв
+126	Tajikistan	Central Asia	25,30	21.22	май.78	69.06	фев.48	14.фев
+127	Djibouti	Africa	24,90	22.43	июл.17	65.0	фев.17	13.май
+128	Lesotho	Africa	24,70	23.мар	ноя.41	58.9	фев.95	16.июн
+129	Honduras	Central America	24,40	18.19	апр.67	74.9	02.май	21.апр
+130	Egypt	Africa	24,10	26.44	апр.36	74.01	мар.23	32.0
+131	Haiti	Central America	24,10	21.апр	июл.29	65.61	фев.48	22.июл
+132	Philippines	East Asia/Southeast Asia	24,10	22.66	май.99	70.32	фев.89	06.апр
+133	Tonga	Australia - Oceania	24,10	20.июн	апр.95	77.29	фев.81	48.2
+134	Laos	East Asia/Southeast Asia	24,00	22.74	07.дек	66.0	фев.57	05.мар
+135	Papua New Guinea	East Asia/Southeast Asia	24,00	22.авг	май.97	69.86	фев.79	21.мар
+136	Belize	Central America	23,90	21.62	мар.99	75.56	фев.66	24.янв
+137	Marshall Islands	Australia - Oceania	23,80	22.42	апр.25	74.38	фев.81	52.9
+138	Eswatini	Africa	23,70	23.87	09.сен	59.13	фев.48	16.май
+139	Jordan	Middle East	23,50	22.79	мар.44	75.75	3.0	35.5
+140	Solomon Islands	Australia - Oceania	23,50	23.июл	мар.97	76.45	фев.92	22.май
+141	Syria	Middle East	23,50	23.25	апр.36	74.01	фев.85	27.авг
+142	Guatemala	Central America	23,20	22.79	апр.94	72.63	фев.67	21.фев
+143	Vanuatu	Australia - Oceania	23,00	21.95	мар.97	74.87	фев.72	25.фев
+144	Pakistan	South Asia	22,00	26.95	06.янв	69.37	мар.53	08.июн
+145	Gambia, The	Africa	21,80	26.42	июн.66	66.15	мар.13	10.мар
+146	Namibia	Africa	21,80	25.33	07.июл	65.87	03.мар	17.фев
+147	Ghana	Africa	21,40	29.авг	06.мар	69.01	мар.71	10.сен
+148	Iraq	Middle East	21,20	25.21	мар.92	72.9	мар.32	30.апр
+149	Gabon	Africa	21,00	26.14	май.76	69.37	мар.36	15.0
+150	Mauritania	Africa	21,00	28.49	июл.54	64.86	мар.59	12.июл
+151	Comoros	Africa	20,90	22.98	июн.61	66.9	фев.86	07.авг
+152	Zimbabwe	Africa	20,50	33.34	09.фев	62.83	мар.91	15.май
+153	Cote d'Ivoire	Africa	20,30	28.67	июл.75	61.8	03.июн	10.мар
+154	Equatorial Guinea	Africa	20,30	30.сен	июл.16	66.35	04.фев	8.0
+155	Eritrea	Africa	20,30	27.41	июн.79	66.51	мар.65	5.0
+156	Madagascar	Africa	20,30	29.22	06.сен	67.86	03.июл	05.мар
+157	Central African Republic	Africa	20,00	33.2	12.янв	55.07	04.сен	07.май
+158	Kenya	Africa	20,00	26.78	05.сен	69.32	мар.36	07.янв
+159	Togo	Africa	20,00	32.34	май.39	70.99	апр.28	08.апр
+160	Ethiopia	Africa	19,80	31.мар	05.авг	67.9	04.июл	04.май
+161	Yemen	Middle East	19,80	25.21	май.69	67.18	03.янв	17.янв
+162	Rwanda	Africa	19,70	27.18	май.95	65.48	мар.42	05.авг
+163	Timor-Leste	East Asia/Southeast Asia	19,60	31.45	май.67	69.62	апр.32	03.авг
+164	Afghanistan	South Asia	19,50	36.08	дек.57	53.25	апр.72	05.май
+165	Congo, Republic of the	Africa	19,50	32.15	авг.55	61.69	апр.41	09.июн
+166	Senegal	Africa	19,40	31.31	июл.55	63.83	мар.97	08.авг
+167	Sao Tome and Principe	Africa	19,30	28.94	июн.33	66.72	мар.69	12.апр
+168	Guinea	Africa	19,10	35.86	авг.28	63.53	апр.89	07.июл
+169	Sierra Leone	Africa	19,10	35.04	09.июл	60.19	апр.58	08.июл
+170	Nigeria	Africa	18,60	34.38	авг.89	60.87	апр.67	08.сен
+171	South Sudan	Africa	18,60	38.26	сен.84	58.6	май.43	06.июн
+172	Cameroon	Africa	18,50	35.91	июл.93	62.79	апр.61	11.апр
+173	Somalia	Africa	18,50	38.25	ноя.82	55.32	май.41	08.мар
+174	Sudan	Africa	18,30	33.63	июн.41	66.79	апр.66	06.июн
+175	Tanzania	Africa	18,20	33.71	май.17	69.9	апр.45	08.апр
+176	Guinea-Bissau	Africa	18,00	36.64	июл.69	63.26	апр.72	09.май
+177	Liberia	Africa	18,00	36.96	июн.78	65.1	апр.84	09.сен
+178	Burkina Faso	Africa	17,90	34.34	июл.92	63.06	апр.39	05.июн
+179	Burundi	Africa	17,70	35.48	06.июл	67.07	05.янв	05.апр
+180	Benin	Africa	17,00	41.55	авг.21	61.82	май.47	09.июн
+181	Mozambique	Africa	17,00	38.03	окт.59	56.49	апр.89	07.фев
+182	Zambia	Africa	16,90	35.23	июн.24	65.92	апр.63	08.янв
+183	Malawi	Africa	16,80	28.59	апр.66	72.16	мар.51	05.авг
+184	Congo, Democratic Republic of the	Africa	16,70	40.53	авг.15	61.43	05.июл	06.июл
+185	Chad	Africa	16,10	41.05	09.июл	58.73	май.57	06.янв
+186	Mali	Africa	16,00	41.6	авг.77	62.01	май.63	08.июн
+187	Angola	Africa	15,90	42.22	авг.24	61.71	05.сен	08.фев
+188	Uganda	Africa	15,70	41.6	май.17	68.58	май.45	05.мар
+189	Niger	Africa	14,80	47.28	10.сен	59.7	июн.91	05.май
